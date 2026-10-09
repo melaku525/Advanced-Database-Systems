@@ -1,14 +1,6 @@
 # Advanced Database Systems
 ---
 
-## 📘 Course Overview
-
-Advanced Database Systems builds on the fundamentals of database management systems, focusing on advanced techniques for managing, processing, securing, and analyzing data.
-
-The course covers transaction management, concurrency control, database recovery, query processing and optimization, database integrity and security, distributed databases, object-oriented databases, data warehousing, and data mining.
-
-Through lectures, demonstrations, laboratory exercises, assignments, and project-based learning, students develop practical skills for designing, implementing, optimizing, securing, and evaluating modern database systems.
-
 ## 🎯 Course Learning Outcomes
 
 Upon successful completion of this course, students will be able to:
@@ -73,25 +65,4 @@ Depending on the laboratory activity, students may use:
 3. Date, C. J. *An Introduction to Database Systems*. 8th edition, Addison-Wesley, 2003.
 4. Silberschatz, A., Korth, H. F., and Sudarshan, S. *Database System Concepts*. 4th edition, McGraw-Hill, 2002.
 
-## 👨‍💻 Instructor
 
-**Melaku M.**
-Instructor, Faculty of Computing and Software Engineering
-Arba Minch University Institute of Technology
-
-Email: [melakumeskele143@gmail.com](mailto:melakumeskele143@gmail.com)
-
-## 🎓 Intended Audience
-
-This repository is intended for third-year Software Engineering students taking Advanced Database Systems (SEng4131), as well as learners who want to strengthen their knowledge of advanced database concepts and practical database development.
-
-## 📌 Usage
-
-Students can browse the chapter materials, practice SQL examples, complete laboratory exercises, and use the provided resources to prepare for assignments, examinations, and the course project.
-
-Always follow the instructor's guidelines when submitting assignments and project work.
-
----
-
-*Advanced Database Systems — SEng4131*
-*Arba Minch University Institute of Technology*
