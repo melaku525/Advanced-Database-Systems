@@ -34,7 +34,6 @@ This repository organizes course resources into the following categories:
 * **Laboratory Exercises:** Hands-on practical activities and demonstrations.
 * **Assignments:** Individual exercises and problem-solving tasks.
 * **Course Project:** Practical database design and implementation activities.
-* **Examination Resources:** Revision questions and practice exercises.
 * **References:** Recommended textbooks and additional learning resources.
 
 ## 🛠️ Tools and Technologies
