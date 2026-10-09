@@ -1,15 +1,4 @@
 # Advanced Database Systems
-
-**Course Code:** SEng4131
-**Program:** B.Sc. in Software Engineering
-**Module:** Database Management Systems
-**Year/Semester:** G3SE, Semester I
-**Credits:** 5 ECTS
-**Credit Hours:** 3 hours per week
-**Institution:** Arba Minch University
-**Faculty:** Faculty of Computing and Software Engineering
-**Instructor:** Melaku M.
-
 ---
 
 ## 📘 Course Overview
